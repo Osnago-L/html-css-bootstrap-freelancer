@@ -14,13 +14,13 @@
     width: 150px;
     margin: 1rem;
 }
- #head-center-content svg{
+#head-center-content svg{
     width: 1em;
 }
 #head-center-content p{
     margin-bottom: 30px;
 }
-.sy-star-hr:before {
+.sy-white-hr:before {
     content: "";
     display: block;
     height: 3px;
@@ -28,7 +28,7 @@
     background-color: white;
     margin-right: 10px;
 }
-.sy-star-hr:after {
+.sy-white-hr:after {
     content: "";
     display: block;
     height: 3px;
@@ -36,3 +36,30 @@
     background-color: white;
     margin-left: 10px;
 } 
+main{
+    padding: 80px 0;
+}
+#images-main img{
+    width: 100%;
+    border-radius: 10px 10px;
+ }
+.sy-black-hr:before {
+    content: "";
+    display: block;
+    height: 3px;
+    width: 100px;
+    background-color: black;
+    margin-right: 10px;
+}
+.sy-black-hr:after {
+    content: "";
+    display: block;
+    height: 3px;
+    width: 100px;
+    background-color: black;
+    margin-left: 10px;
+} 
+.sy-t-b-margin{
+    margin: 20px 0;
+}
+
