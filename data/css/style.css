@@ -3,10 +3,36 @@
   padding: 0;
   box-sizing: border-box;
 }
-
-.sy-fontcolor-white{
-    color: white;
-}
-.sy-head-foot-bgcolor{
+.sy-nav-foot-bgcolor{
  background-color: #2c3e50;
 }
+.sy-aqua-green-bgcolor{
+    background-color: #1abc9c;
+   }
+/* HEADER  */
+#head-center-content img{
+    width: 150px;
+    margin: 1rem;
+}
+ #head-center-content svg{
+    width: 1em;
+}
+#head-center-content p{
+    margin-bottom: 30px;
+}
+.sy-star-hr:before {
+    content: "";
+    display: block;
+    height: 3px;
+    width: 100px;
+    background-color: white;
+    margin-right: 10px;
+}
+.sy-star-hr:after {
+    content: "";
+    display: block;
+    height: 3px;
+    width: 100px;
+    background-color: white;
+    margin-left: 10px;
+} 
