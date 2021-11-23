@@ -63,3 +63,16 @@ main{
     margin: 20px 0;
 }
 
+#about .row div{
+    padding: 20px 0;
+}
+#about p{
+    padding: 010px;
+}
+#about span{
+    padding: 5px 10px;
+    border: 2px solid white;
+    border-radius: 20px 20px;
+    margin-bottom: 30px;
+}
+
