@@ -64,11 +64,10 @@
     border-radius: 20px 20px;
     margin-bottom: 30px;
 }
-#contactme span{
-    padding: 5px 10px;
-    background-color: #1abc9c;
-    border-radius: 20px 20px;
-    margin-bottom: 30px;
+
+.sy-border-form{
+    border: none;
+    border-radius: 0px;
 }
 .circle{
     padding: 5px 8px;
